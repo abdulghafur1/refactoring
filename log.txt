@@ -1,6 +1,8 @@
-afeaa56 (HEAD -> main) done wiht Task 2.4
+42dff4b (HEAD -> main) Task 2.1: adding required commit message
+0552342 (origin/main, origin/HEAD) done
+afeaa56 done wiht Task 2.4
 c0763ba done with Task 2.3
-d005a12 (origin/main, origin/HEAD) done with Task 2.2
+d005a12 done with Task 2.2
 30e490b done with Task 2.2
 2703056 done with task step 4
 65e46ca done with Task 1.2
@@ -10,5 +12,3 @@ eb521f3 done with the clean up Task 1.1
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
